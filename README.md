@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**MohanaBhavani/MohanaBhavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohana, an AI/ML Engineer based in the USA.
 
-Here are some ideas to get you started:
+I mostly work on Generative AI, Machine Learning, LLMs, RAG pipelines, and scalable AI systems using Python, PyTorch, TensorFlow, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy building real-time AI applications, optimizing large language models, and working on deployment pipelines with Docker, Kubernetes, and MLflow.
+
+This is a space where I’ll share projects, experiments, and things I’m currently learning and building in AI and Machine Learning. Everything here is built with curiosity, consistency, and real-world problem solving.
+
+## Tools & Tech
+
+- Python, SQL, PyTorch, TensorFlow
+- Machine Learning, Deep Learning, Generative AI
+- LLMs, RAG, Hugging Face, Transformers
+- Docker, Kubernetes, MLflow, FastAPI
+- AWS, Azure, GCP, Apache Spark, Kafka
+
+## A Bit About Me
+
+- 🤖 Love building AI systems that solve real problems
+- 📚 Always learning something new in AI/ML
+- 🎥 Into anime and tech content
+- ☕ Coffee helps me debug faster
+- 🚀 Interested in AI Agents, multi-modal AI, and future tech
