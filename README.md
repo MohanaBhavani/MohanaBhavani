@@ -18,8 +18,8 @@ This is a space where I’ll share projects, experiments, and things I’m curre
 
 ## A Bit About Me
 
-- 🤖 Love building AI systems that solve real problems
-- 📚 Always learning something new in AI/ML
-- 🎥 Into anime and tech content
-- ☕ Coffee helps me debug faster
-- 🚀 Interested in AI Agents, multi-modal AI, and future tech
+- 🎨 Into drawing, painting, and creative design
+- 🎵 Music helps me focus while building projects
+- 📚 Always exploring new ideas in AI and technology
+- 🎥 Enjoy anime, minimal aesthetics, and digital art
+- 🚀 Love building things that are simple, useful, and impactful
